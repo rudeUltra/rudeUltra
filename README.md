@@ -50,9 +50,7 @@ I am a Computer Science Student and Full Stack Web Developer from India &nbsp; <
 
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rudeUltra&theme=tokyonight" alt="rudeUltra" />
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=rudeUltra&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rudeUltra" />
 </p>
 
 
