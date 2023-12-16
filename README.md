@@ -43,15 +43,13 @@ I am a Computer Science Student and Full Stack Web Developer from India &nbsp; <
 
 
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=rudeUltra&show_icons=true&locale=en&theme=tokyonight" alt="rudeUltra" />
-<a href="https://leetcode.com/rude_ultra1/"><img width="48%" src="https://leetcode.card.workers.dev/rude_ultra1?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+<img  align="left" src="https://github-readme-stats.vercel.app/api?username=rudeUltra&show_icons=true&locale=en&theme=tokyonight" alt="rudeUltra" />
+<a align="right" href="https://leetcode.com/rude_ultra1/"><img width="48%" src="https://leetcode.card.workers.dev/rude_ultra1?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
 </p>
 
 
 
-<p align="center">
 
-</p>
 
 
 
