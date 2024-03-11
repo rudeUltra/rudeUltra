@@ -32,8 +32,6 @@ I am a Computer Science Student and Full Stack Web Developer from India &nbsp; <
 
 - :seedling: Full Stack Web Developer with Problem-Solving Skills.
 
-- :zap: Active On Competitve Coding websites like codechef(3 stars) and Leetcode (600+ problems solved | 1700+ Contest Rating) in C++/Java
-
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakfdgfdge?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rudhra-deep-biswas-08507a236/) 
 ---
 
