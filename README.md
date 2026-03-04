@@ -6,7 +6,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="200"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/rudhra-deep-biswas-08507a236/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -26,14 +26,8 @@
 
 ---
 
-I am a Computer Science Student and Full Stack Web Developer from India &nbsp; <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="30">
+Average Software Engineer, Fixing Bugs and building Cool Stuff, Amateur Vibe Coder, constantly prompting (Please Fix, make no mistakes, thank you. You are a senior expert...thank you ) Feel free to connect, always up for meaningful conversations and shared experiences 🤝 &nbsp;
 
-- :telescope: I’m Currently in my Final year of BTech in Computer Science and Engineering from Vellore Institute of Technology Vellore India.
-
-- :seedling: Full Stack Web Developer with Problem-Solving Skills.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakfdgfdge?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rudhra-deep-biswas-08507a236/) 
----
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -41,7 +35,8 @@ I am a Computer Science Student and Full Stack Web Developer from India &nbsp; <
 
 
 
-<img  align="left" width="45%vw" src="https://github-readme-stats.vercel.app/api?username=rudeUltra&show_icons=true&locale=en&theme=tokyonight" alt="rudeUltra" />
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rudeUltra&theme=tokyonight-duo" alt="GitHub Streak" /></a>
 <a align="right" href="https://leetcode.com/rude_ultra1/"><img width="48%" src="https://leetcode.card.workers.dev/rude_ultra1?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
 
 
