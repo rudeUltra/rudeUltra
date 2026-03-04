@@ -14,7 +14,7 @@
   <a href="https://leetcode.com/rude_ultra1/">
     <img src="https://img.shields.io/badge/Leetcode-red?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode Badge"/>
   </a>
-  <a href="https://portfolio-eight-sigma-23.vercel.app/">
+  <a href="https://funny-choux-d97c0b.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio Website-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
