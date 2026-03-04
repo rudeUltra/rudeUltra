@@ -36,7 +36,7 @@ Average Software Engineer, Fixing Bugs and building Cool Stuff, Amateur Vibe Cod
 
 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rudeUltra&theme=tokyonight-duo" alt="GitHub Streak" /></a>
+<a alight ="left" href="https://git.io/streak-stats"><img width="45%" src="https://streak-stats.demolab.com?user=rudeUltra&theme=tokyonight-duo" alt="GitHub Streak" /></a>
 <a align="right" href="https://leetcode.com/rude_ultra1/"><img width="48%" src="https://leetcode.card.workers.dev/rude_ultra1?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
 
 
